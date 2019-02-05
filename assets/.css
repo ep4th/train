@@ -1,0 +1,35 @@
+
+
+header {
+    background-color: lightblue;
+}
+.container {
+    background-color: lightblue;
+}
+.jumbotron{
+    background-color: orange!important;
+}
+.container h1{
+    text-align: center;
+    font-size: 54px;
+    color: orangered;
+    background-color: orange
+}
+.container h2 {
+    text-align: center;
+    font-size: 24px;
+    color: orangered;
+    background-color: orange;
+}
+.row{
+    color: orangered;
+    background-color: orange;
+
+}
+.panel {
+    color: orangered;
+    background-color: orange;
+}
+.btn-primary {
+    background-color: lightblue;
+}
